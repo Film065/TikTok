@@ -1,7 +1,5 @@
-<p align=center>
-## TikTok Bot - FinalDeveloperPNP
-
-![Python Versions](https://img.shields.io/badge/python-v3.6%2B-blue)
+<p align=center>TikTok Bot - FinalDeveloperPNP</p>
+<p align=center>![Python Versions](https://img.shields.io/badge/python-v3.6%2B-blue)
 ![Version](https://img.shields.io/badge/version-v1.0-blue)
 ![build-passing](https://img.shields.io/badge/build-passing-brightgreen)
 
