@@ -2,7 +2,7 @@
 <p align=center> ![Python Versions](https://img.shields.io/badge/python-v3.6%2B-blue) </p>
 ![Version](https://img.shields.io/badge/version-v1.0-blue)
 ![build-passing](https://img.shields.io/badge/build-passing-brightgreen)
-
+<a target="_blank" href="https://www.python.org/downloads/" title="Python version"><img src="https://img.shields.io/badge/python-v3.6%2B-blue"></a>
 </p>
 
  - [package](https://github.com/FinalDeveloperPNP/TikTok/tree/package) - สิ่งที่ต้องลงก็ใช้งานโปรแกรม
